@@ -1,4 +1,4 @@
-package example
+package com.ruimorais
 
 import cats.effect.IOApp
 import cats.effect.IO
